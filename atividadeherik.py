@@ -1,0 +1,7 @@
+metro = int(input("digite a quantidade em metros"))
+cm = (metro*100)
+print("a quantidade em centimetros é")
+print(cm)
+mm = (metro*1000)
+print("a quantidade em milimetros é")
+print(mm)
